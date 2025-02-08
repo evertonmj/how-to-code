@@ -19,8 +19,7 @@ This repository includes a collection of data structures and algorithms implemen
 
 The project is organized as follows:
 
-- `src/main/java/`: Contains the main Java source files.
-- `src/test/java/`: Contains the test files.
+- `data-structures-algorithms-class/src/main/java/`: Contains the main Java source files with Java examples of Data Structures and Algorithms
 
 ## Getting Started
 
