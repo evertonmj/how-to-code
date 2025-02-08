@@ -33,9 +33,9 @@ To get started with this project, follow these steps:
 
 2. Open the project in your preferred IDE. Bellow there are some options:
 
-   a. IntelliJ IDEA Community Edition - https://www.jetbrains.com/pt-br/idea/download/
-   b. Visual Studio Code - https://code.visualstudio.com/
-   c. Eclipse IDE - https://eclipseide.org/
+   -  IntelliJ IDEA Community Edition - https://www.jetbrains.com/pt-br/idea/download/
+   -  Visual Studio Code - https://code.visualstudio.com/
+   -  Eclipse IDE - https://eclipseide.org/
 
 ## Usage
 You can use this project as a reference for learning and implementing data structures and algorithms in Java. Each data structure and algorithm is implemented in its own class with accompanying test cases.
